@@ -8,4 +8,6 @@
 
 ## Lab4 [Activities and intents](https://github.com/caopeixinnku/IMD_repository/tree/main/lab4)
 
-## Lab5[Implicit Intents](https://github.com/caopeixinnku/IMD_repository/tree/main/lab5)
+## Lab5 [Implicit Intents](https://github.com/caopeixinnku/IMD_repository/tree/main/lab5)
+
+## Lab6 [Lab6](https://github.com/caopeixinnku/IMD_repository/tree/main/lab6)
