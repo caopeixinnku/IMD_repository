@@ -10,4 +10,6 @@
 
 ## Lab5 [Implicit Intents](https://github.com/caopeixinnku/IMD_repository/tree/main/lab5)
 
-## Lab6 [Lab6](https://github.com/caopeixinnku/IMD_repository/tree/main/lab6)
+## Lab6 [User Interaction](https://github.com/caopeixinnku/IMD_repository/tree/main/lab6)
+
+## Lab7 [User Interaction](https://github.com/caopeixinnku/IMD_repository/tree/main/lab7)
