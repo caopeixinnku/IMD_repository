@@ -14,4 +14,6 @@
 
 ## Lab7 [User Interaction](https://github.com/caopeixinnku/IMD_repository/tree/main/lab7)
 
-## Lab8 [Lab8](https://github.com/caopeixinnku/IMD_repository/tree/main/lab8)
+## Lab8 [Material Design](https://github.com/caopeixinnku/IMD_repository/tree/main/lab8)
+
+## Lab9 [Background Tasks](https://github.com/caopeixinnku/IMD_repository/tree/main/lab9)
