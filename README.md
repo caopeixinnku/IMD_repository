@@ -17,3 +17,5 @@
 ## Lab8 [Material Design](https://github.com/caopeixinnku/IMD_repository/tree/main/lab8)
 
 ## Lab9 [Background Tasks](https://github.com/caopeixinnku/IMD_repository/tree/main/lab9)
+
+## Lab10 [Notifications](https://github.com/caopeixinnku/IMD_repository/tree/main/lab10)
